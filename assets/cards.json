@@ -1,0 +1,14 @@
+{
+"template":{"named":"Template", 
+	"price":42,
+	"desc":"This card is meant to be used for testing purposes",
+	"flavor":"Coucou",
+	"power":9001,
+	"vigor":23,
+	"ability":"action(melee, ranged) reaction(selfcard:defense:draw self:draw:draw:2)"
+	},
+
+"c1":{"named":"Card 1", "desc":"salut c'est la carte n°1"},
+"c2":{"named":"Card 2","desc":"salut c'est la carte n°2"},
+"c3":{"named":"Card 3","desc":"salut c'est la carte n°3"}
+}

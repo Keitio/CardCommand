@@ -1,0 +1,13 @@
+regles:
+point commandement
+heros
+unités
+2 moves / tour
+movepool:
+	déplacement
+	attaque
+	changement de mode
+modes:
+	atk
+	def
+	normal
